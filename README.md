@@ -1,10 +1,6 @@
-### Hello! 👋
-
-## I'm Oscar Diaz
+## Hello! 👋 I'm Oscar Diaz
 
 ### Software Engineer \ Frontend developer
-
-<br>
 
 ### 🌟 I really know
 
