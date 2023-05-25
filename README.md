@@ -1,6 +1,6 @@
 ## Hello! I'm <b>Oscar Diaz</b> <img src="https://raw.githubusercontent.com/OscarFDiaz/OscarFDiaz/master/assets/wave.gif" width="30">
 
-### Software Engineer \ Frontend developer | REACT | UI Designer
+### Software Engineer 👨‍🎓 \ Frontend developer | REACT ⚛ | UI Designer 🖌
 
 #
 
@@ -29,7 +29,7 @@
 
 #
 
-### 🧠 Because of the university and life I know a little about
+### 🎓 Because of the university and life I know a little about
 
 > Languages
 
