@@ -2,7 +2,7 @@
 
 # I'm Oscar Diaz
 
-### Software Engineer \ Frontend developer/designer
+### Software Engineer \ Frontend developer | React | UI designer
 
 ### 🌟🔥 I really know
 
