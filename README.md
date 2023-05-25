@@ -1,8 +1,6 @@
-# Hello! <img src="https://raw.githubusercontent.com/OscarFDiaz/OscarFDiaz/master/assets/wave.gif"</img>
+# Hello! I'm Oscar Diaz<img src="https://raw.githubusercontent.com/OscarFDiaz/OscarFDiaz/master/assets/wave.gif" width="30">
 
-# I'm Oscar Diaz
-
-### Software Engineer \ Frontend developer | React | UI designer
+### Software Engineer \ Frontend developer | REACT | UI Designer
 
 ### 🌟🔥 I really know
 
