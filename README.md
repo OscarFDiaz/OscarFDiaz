@@ -1,4 +1,6 @@
-# Hello! 👋 I'm Oscar Diaz
+# Hello! <img src="https://raw.githubusercontent.com/OscarFDiaz/OscarFDiaz/master/assets/wave.gif"</img>
+
+# I'm Oscar Diaz
 
 ### Software Engineer \ Frontend developer/designer
 
